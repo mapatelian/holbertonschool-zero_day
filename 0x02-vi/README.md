@@ -1,0 +1,1 @@
+This project is designed to help students learn how to use vi editor
