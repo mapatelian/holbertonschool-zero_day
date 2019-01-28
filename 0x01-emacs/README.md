@@ -1,0 +1,1 @@
+This progect is designed to help students learn how to use emacs 
